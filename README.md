@@ -5,8 +5,9 @@
 
 ---
 
-<h3 style="color:#F7768E">👨‍💻 Programming Languages</h3>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=320&lines=Programming+Languages" alt="Typing SVG" />
+</p>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -16,7 +17,9 @@
   <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>
 </p>
 
-<h3 style="color:#89DDFF">📊 Big Data & Databases</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=89DDFF&width=320&lines=Big+Data+%26+Databases" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
@@ -28,7 +31,9 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<h3 style="color:#FFCB6B">🛠 DevOps & Tools</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFCB6B&width=320&lines=DevOps+%26+Tools" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -40,20 +45,26 @@
 
 ---
 
-<h3 style="color:#C3E88D">🏆 GitHub Achievements</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C3E88D&width=320&lines=GitHub+Achievements" alt="Typing SVG" />
+</p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedmoaaz&theme=onestar&no-frame=true&column=6" />
 
 ---
 
-<h3 style="color:#FF5370">📊 GitHub Stats</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=320&lines=GitHub+Stats" alt="Typing SVG" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmoaaz&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmoaaz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmoaaz&layout=compact&theme=dark)
 
 ---
 
-<h3 style="color:#FF5370">🔥 Contribution Streak</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5370&width=320&lines=Contribution+Streak" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedmoaaz&theme=dark&hide_border=true&fire=orange" alt="GitHub Streak" />
@@ -61,7 +72,9 @@
 
 ---
 
-<h3 style="color:#FFCB6B">🤝 Connect with Me</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFCB6B&width=320&lines=Connect+with+Me" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedmoaaz/" target="_blank">
@@ -79,5 +92,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedmoaaz&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmoaaz" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedmoaaz&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmoaaz" /> 
 </div>
